@@ -1,0 +1,6 @@
+Debug/
+Release/
+.vs/
+packages/
+*.dll
+*.vcxproj.user
